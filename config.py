@@ -7,5 +7,5 @@ config = {
         # (NORAD_ID, SATELLITE_NAME)
         (44427, 'KRAKSAT')
     ],
-    'OUTPUT_FOLDER': 'output'
+    'OUTPUT_FOLDER': '.'
 }

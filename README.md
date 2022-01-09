@@ -14,4 +14,8 @@ Usage:
 2. Fill file `config.py`.
 3. Run `python script.py`.
 
+Output:
+1. `SATELLITE_NAME_TLE.tle` - all TLE from the chosen time period for specific satellite.
+2. `SATELLITE_NAME_height.csv` - file with `DATE;HEIGHT` from the chosen time period.
+
 ![Example chart in Grafana](chart.jpg)
